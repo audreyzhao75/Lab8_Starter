@@ -1,3 +1,7 @@
-// unit-test-me.js
+// sum.js
 
 module.exports = { sum };
+
+function sum(x, y) {
+    return x + y;
+}
